@@ -19,3 +19,12 @@ To understand how the data is connected, here is the Entity Relationship Diagram
 * **Joins:** Combining data from multiple tables like Customer, Invoice, and Track.
 * **CTEs:** Organizing complex logic using Common Table Expressions.
 * **Window Functions:** Using `ROW_NUMBER` and `PARTITION BY` to rank data.
+
+
+## 💡 Strategic Business Recommendations
+Based on the data insights, I recommend the following actions for the store:
+
+1. **Targeted Marketing for Rock Fans:** Since Rock is the dominant genre, the marketing team should launch a "Classic Rock Legends" promotion specifically in the top 3 revenue-generating cities to maximize ROI.
+2. **Customer Loyalty Program:** The top-spending customers identified in each country should be invited to a "VIP Gold Tier" program, offering them early access to new album releases to increase customer retention.
+3. **Festival Expansion:** Prague and London show the highest sales volume outside of the US. These should be the priority locations for the store’s next sponsored live music events.
+4. **Inventory Optimization:** Low-performing genres identified in the analysis should have their inventory reduced to lower licensing costs, shifting that budget toward high-demand digital tracks.
